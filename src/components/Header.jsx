@@ -1,8 +1,8 @@
 import React from "react";
 function Header(){
-    return  <header className="App-header" >
-    <h1 className= "App-heading" >Keeper</h1>
+    return  <header>
+    <h1>Keeper</h1>
     </header>
    
 }
-export defaut Header;
+export default Header;

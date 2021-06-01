@@ -1,14 +1,15 @@
 import './App.css';
-import Header from "./components/Header"
-var d = new Date();
+import Header from "./components/Header";
+import Note from "./components/Note";
+import Footer from "./components/Footer";
+
 
 function App() {
   return (
     <div>
     <Header />
-    
-      <footer className= "App-footer">copyright {d.getFullYear()} </footer>
-
+    <Note/>
+    <Footer />
   
     </div>
     
