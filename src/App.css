@@ -74,3 +74,22 @@ footer{
   position: absolute;
   bottom: 0;
 }
+.addNote form{
+  width: 500px;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+  margin: 30px auto 20px auto;
+  background: #fff;
+  padding: 15px;
+}
+.addNote button{
+  background-color: #666666;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  height: 35px;
+  width: 35px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+}
