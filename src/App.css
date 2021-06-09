@@ -17,7 +17,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Acme', sans-serif;
+  /* font-family: 'Acme', sans-serif; */
     color: white;
     margin: 16px 16px 16px 20px;
     cursor: pointer;
@@ -32,18 +32,41 @@ header h1 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 8px;
   float: left;
+    font-family: 'Itim', cursive;
   /* to keep it in a row */
 
 }
 .note h3 {
 padding: 10px 10px 2px 13px;
+  font-family: 'Itim', cursive;
+
 }
 .note p{
   padding: 1px 10px 8px 13px;
 }
+.note button{
+  /* background-color: #282c34; */
+  color: white;
+    font-family: 'Itim', cursive;
+    padding: 3px;
+    border: none;
+    border-radius: 6px;
+    float: right;
+    margin: 10px;
+    background-color: #666666;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
 
+
+}
+
+.note button:hover {
+    transform: translate3d(0px,-1px,0px);
+    background-color: #404040;
+    box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+}
 footer{
-  font-family: 'Acme', sans-serif;
+
   font-family: 'Itim', cursive;
   text-align: center;
   width: 100%;
