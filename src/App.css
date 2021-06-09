@@ -46,7 +46,7 @@ padding: 10px 10px 2px 13px;
 }
 .note button{
   /* background-color: #282c34; */
-  color: white;
+    color: white;
     font-family: 'Itim', cursive;
     padding: 3px;
     border: none;
@@ -83,7 +83,21 @@ footer{
   background: #fff;
   padding: 15px;
 }
-.addNote button{
+.addNote form input,
+.addNote form textarea {
+
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+}
+::placeholder {
+    font-family: 'Itim', cursive;
+}
+.addNote form button{
   background-color: #666666;
   border: none;
   border-radius: 50%;
@@ -92,4 +106,5 @@ footer{
   width: 35px;
   cursor: pointer;
   box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  float: right;
 }
