@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b66387f3.chunk.css",
-    "main.js": "/my-app/static/js/main.4a9def88.chunk.js",
-    "main.js.map": "/my-app/static/js/main.4a9def88.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.6b00e2bc.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.6b00e2bc.js.map",
-    "static/js/2.b5b9abad.chunk.js": "/my-app/static/js/2.b5b9abad.chunk.js",
-    "static/js/2.b5b9abad.chunk.js.map": "/my-app/static/js/2.b5b9abad.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.b66387f3.chunk.css.map": "/my-app/static/css/main.b66387f3.chunk.css.map",
-    "static/js/2.b5b9abad.chunk.js.LICENSE.txt": "/my-app/static/js/2.b5b9abad.chunk.js.LICENSE.txt"
+    "main.css": "/Keeper-App/static/css/main.b66387f3.chunk.css",
+    "main.js": "/Keeper-App/static/js/main.4a9def88.chunk.js",
+    "main.js.map": "/Keeper-App/static/js/main.4a9def88.chunk.js.map",
+    "runtime-main.js": "/Keeper-App/static/js/runtime-main.467def3d.js",
+    "runtime-main.js.map": "/Keeper-App/static/js/runtime-main.467def3d.js.map",
+    "static/js/2.b5b9abad.chunk.js": "/Keeper-App/static/js/2.b5b9abad.chunk.js",
+    "static/js/2.b5b9abad.chunk.js.map": "/Keeper-App/static/js/2.b5b9abad.chunk.js.map",
+    "index.html": "/Keeper-App/index.html",
+    "static/css/main.b66387f3.chunk.css.map": "/Keeper-App/static/css/main.b66387f3.chunk.css.map",
+    "static/js/2.b5b9abad.chunk.js.LICENSE.txt": "/Keeper-App/static/js/2.b5b9abad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b00e2bc.js",
+    "static/js/runtime-main.467def3d.js",
     "static/js/2.b5b9abad.chunk.js",
     "static/css/main.b66387f3.chunk.css",
     "static/js/main.4a9def88.chunk.js"
